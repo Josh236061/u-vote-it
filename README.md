@@ -20,3 +20,23 @@ I want to Use MySQL to create a database.
 I want to Use SQL to create and populate a table of data.
 
 I want to Run SQL queries to create, read, update, and delete data from a table.
+
+## Acceptance Criteria
+
+When I Configure a Node.js application 
+
+Then I connect to a SQL instance.
+
+When I Create and drop databases and tables.
+
+When I Explain and execute CRUD methods.
+
+When I Create schema
+
+Then I seed files for development and production.
+
+When I Write join statements
+
+Then I establish relations between data in one or more tables using primary and foreign keys.
+
+When I Explain the use and importance of prepared statements.
